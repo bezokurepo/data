@@ -1,0 +1,108 @@
+CODE    LANGUAGE        FAMILY                   TOKENS
+bel 	Belarusian      IE / Slavic          	 950623
+bos 	Bosnian         IE / Slavic          	 986678
+bul 	Bulgarian       IE / Slavic          	 956236
+ces 	Czech           IE / Slavic          	 962410
+hbs 	Serbo-Croatian  IE / Slavic          	 983374
+hrv 	Croatian        IE / Slavic          	 985599
+hsb 	Upper Sorbian   IE / Slavic          	  44497
+mkd 	Macedonian      IE / Slavic          	 937369
+pol 	Polish          IE / Slavic          	 984577
+rus 	Russian         IE / Slavic          	 899849
+slk 	Slovak          IE / Slavic          	 982188
+slv 	Slovenian       IE / Slavic          	 972221
+srp 	Serbian         IE / Slavic          	 932105
+ukr 	Ukrainian       IE / Slavic          	 963058
+lav 	Latvian         IE / Baltic          	 976408
+lit 	Lithuanian      IE / Baltic          	 981930
+afr 	Afrikaans       IE / Germanic        	 985990
+dan 	Danish          IE / Germanic        	 982142
+deu 	German          IE / Germanic        	 972433
+eng 	English         IE / Germanic        	 964192
+fao 	Faroese         IE / Germanic        	 983228
+fry 	Frisian         IE / Germanic        	 982062
+gsw 	Alemannic       IE / Germanic        	 959092
+isl 	Icelandic       IE / Germanic        	 986286
+lim 	Limburgish      IE / Germanic        	 974127
+ltz 	Luxembourgish   IE / Germanic        	 987010
+nds 	Low Saxon       IE / Germanic        	 865438
+nld 	Dutch           IE / Germanic        	 983147
+nno 	Nynorsk         IE / Germanic        	 978531
+nor 	Norwegian       IE / Germanic        	 982544
+sco 	Scots           IE / Germanic        	 937963
+swe 	Swedish         IE / Germanic        	 980397
+yid 	Yiddish         IE / Germanic        	 943117
+arg 	Aragonese       IE / Romance / Italic	 981847
+ast 	Asturian        IE / Romance / Italic	 987542
+cat 	Catalan         IE / Romance / Italic	 986753
+fra 	French          IE / Romance / Italic	 980510
+glg 	Galician        IE / Romance / Italic	 987409
+hat 	Haitian Creole  IE / Romance / Italic	 986369
+ita 	Italian         IE / Romance / Italic	 965901
+lat 	Latin           IE / Romance / Italic	 972158
+lmo 	Lombard         IE / Romance / Italic	 949838
+nap 	Neapolitan      IE / Romance / Italic	 351089
+pms 	Piedmontese     IE / Romance / Italic	 501328
+por 	Portuguese      IE / Romance / Italic	 977841
+ron 	Romanian        IE / Romance / Italic	 985880
+spa 	Spanish         IE / Romance / Italic	 983060
+vec 	Venetian        IE / Romance / Italic	 987487
+wln 	Walloon         IE / Romance / Italic	 161860
+bre 	Breton          IE / Celtic          	 986334
+cym 	Welsh           IE / Celtic          	 984468
+gla 	Scottish Gaelic IE / Celtic          	 983602
+gle 	Irish           IE / Celtic          	 984778
+ell 	Greek           IE /                 	 956168
+hye 	Armenian        IE /                 	 935086
+sqi 	Albanian        IE /                 	 992035
+diq 	Dimli           IE / Iranian         	 361057
+fas 	Persian         IE / Iranian         	 963208
+glk 	Gilaki          IE / Iranian         	 487845
+kur 	Kurdish         IE / Iranian         	 993132
+tgk 	Tajik           IE / Iranian         	 959520
+ben 	Bengali         IE / Indo-Aryan      	 952110
+bpy 	Bishnupriya     IE / Indo-Aryan      	 959985
+guj 	Gujarati        IE / Indo-Aryan      	 917223
+hif 	Fiji Hindi      IE / Indo-Aryan      	 992301
+hin 	Hindi           IE / Indo-Aryan      	 947125
+mar 	Marathi         IE / Indo-Aryan      	 947284
+nep 	Nepali          IE / Indo-Aryan      	 937628
+urd 	Urdu            IE / Indo-Aryan      	 977273
+amh 	Amharic         AA / Semitic         	   7237
+ara 	Arabic          AA / Semitic         	 911094
+arz 	Egyptian Arabic AA / Semitic         	 943038
+heb 	Hebrew          AA / Semitic         	 968409
+est 	Estonian        Uralic / FinUgric    	 980178
+fin 	Finnish         Uralic / FinUgric    	 981568
+hun 	Hungarian       Uralic / FinUgric    	 977611
+eus 	Basque                               	 983803
+kat 	Georgian        Caucasian            	 887547
+chv 	Chuvash         Turkic / Oghur       	  13471
+aze 	Azerbaijani     Turkic / Oghuz       	 972013
+tur 	Turkish         Turkic / Oghuz       	 985400
+uzb 	Uzbek           Turkic / Karluk      	 978771
+kaz 	Kazakh          Turkic / Kipchak     	 959169
+tat 	Tatar           Turkic / Kipchak     	 986891
+sah 	Yakut           Turkic / Siberian    	 994870
+kor 	Korean          Altaic               	 945859
+mon 	Mongol          Altaic               	 933051
+tel 	Telugu          Dravidian            	 934716
+kan 	Kannada         Dravidian            	 917525
+mal 	Malayalam       Dravidian            	 756459
+tam 	Tamil           Dravidian            	 900692
+new 	Newar           Sino-Tibetan         	  56250
+vie 	Vietnamese      Austroasiatic        	 953723
+ind 	Indonesian      Austronesian         	 982590
+jav 	Javanese        Austronesian         	 912339
+mlg 	Malagasy        Austronesian         	 973698
+mri 	Maori           Austronesian         	 983110
+msa 	Malay           Austronesian         	 984053
+pam 	Pampangan       Austronesian         	 957709
+sun 	Sundanese       Austronesian         	 695079
+tgl 	Tagalog         Austronesian         	 985277
+war 	Waray           Austronesian         	 646669
+swa 	Swahili         NC / Bantu           	 986256
+epo 	Esperanto       constructed          	 984176
+ido 	Ido             constructed          	 300906
+ina 	Interlingua     constructed          	 899582
+vol 	Volapük         constructed          	 175218

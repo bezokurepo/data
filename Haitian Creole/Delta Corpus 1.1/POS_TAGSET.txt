@@ -1,0 +1,21 @@
+Universal POS tags as defined by the Universal Dependencies project.
+For more information, see http://universaldependencies.org/.
+
+VERB  - content verbs (all forms)
+AUX   - auxiliary verbs (all forms)
+NOUN  - common nouns
+PROPN - proper nouns
+PRON  - pronouns
+ADJ   - adjectives
+ADV   - adverbs
+ADP   - adpositions (prepositions and postpositions)
+CONJ  - coordinating conjunctions
+SCONJ - subordinating conjunctions
+DET   - determiners
+NUM   - cardinal numbers
+PART  - particles
+INTJ  - interjections
+SYM   - symbols
+X     - other: foreign words, typos, unknown
+PUNC  - punctuation
+
