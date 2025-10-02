@@ -1,0 +1,2 @@
+# Sources are as follows
+## CMU text is from here -> http://www.speech.cs.cmu.edu/haitian/ and the license is here -> http://www.speech.cs.cmu.edu/haitian/COPYING
