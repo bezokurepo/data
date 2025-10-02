@@ -1,0 +1,47 @@
+CMU Haitian Creole Speech Recognition and Synthesis Databases V0.1
+Wed Jan 20 13:10:38 EST 2010
+
+This distribution contains multispeaker and single speaker databases
+for building ASR/TTS systems in Haitian Creole. 
+
+Refer to COPYING for licence.
+
+Directory structure
+-------------------
+
+wav/	: contains multispeaker* read-speech wav files 
+	  (RIFF, 16000Hz, 16 bit, mono)
+etc/	: contains the txt.done.data file, word level transcription for 
+	  each utterance
+lex/	: has pronunciation lexicon file, haitian.wl.lex of words in 
+	  txt.done.data
+synth/	: directory structure for building a synthetic voice
+	    synth/wav/ contains 148min speech from a Haitian male speaker
+	    synth/etc/ contains the transcriptions to the wav files
+	    synth/lab/ contains time aligned phonetic labels
+	    synth/festival/utts has the festival utterance structures
+
+
+*Speaker Identifier Legend
+-------------------------
+Wherever available, the filename (**XX_****) indicates the gender and 
+dialect of the speaker, where XX is one of the following
+
+MN      Male - North of Haiti
+MW      Male - West of Haiti
+ME      Male - East of Haiti
+MS      Male - South of Haiti
+MM      Male - Martinique
+MG      Male - Guadeloupe
+MR      Male - Reunion
+MF      Male - brought up in France
+FN      Female - North of Haiti
+FW      Female - West of Haiti
+FE      Female - East of Haiti
+FS      Female - South of Haiti
+FM      Female - Martinique
+FG      Female - Guadeloupe
+FR      Female - Reunion
+FF      Female - brought up in France
+
+For questions write to Gopala Krishna Anumanchipalli (gopalakr@cs.cmu.edu)
